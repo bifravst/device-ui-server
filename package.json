@@ -22,7 +22,7 @@
   "author": "Nordic Semiconductor ASA | nordicsemi.no",
   "license": "BSD-3-Clause",
   "dependencies": {
-    "chalk": "^3.0.0",
+    "chalk": "^4.0.0",
     "websocket": "^1.0.31"
   },
   "devDependencies": {
@@ -30,8 +30,8 @@
     "@commitlint/cli": "^8.3.5",
     "@commitlint/config-angular": "^8.3.4",
     "@types/websocket": "1.0.0",
-    "husky": "^4.2.1",
-    "typescript": "^3.7.5"
+    "husky": "^4.2.5",
+    "typescript": "^3.8.3"
   },
   "husky": {
     "hooks": {
